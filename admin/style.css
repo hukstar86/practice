@@ -1,0 +1,19 @@
+body {
+    background-color:#343434;
+    margin-top: 12px;
+}
+
+#content {
+    position: relative;
+    width: 850px;
+    height: 1000px;
+    margin: auto;
+    border: solid 1px black;
+    background-color: White;
+    padding: 10px;
+}
+#content h1,h3 {
+    color: #3262d2;
+}
+
+       
