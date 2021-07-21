@@ -27,7 +27,7 @@ tr td a:hover {
 }
 
 .event {
-	background-color: #C6D1eC;
+	background-color: #blue;
 	border:1px solid #ff0000;
 }
 .normal {
